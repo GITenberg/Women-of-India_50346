@@ -1,4 +1,8 @@
 _repo: Women-of-India_50346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50346-h/images/cover.jpg
 creator:
   author:
     agent_name: Rothfield, Otto
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45828'
     url: http://www.gutenberg.org/2009/agents/45828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50346#Women-of-India
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
